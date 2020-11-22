@@ -13,3 +13,7 @@ run easypass.py
 
 ### Password derived from the sentence
 #### • eightrabbitsplayfootballattokyoseventimesaweek9/
+
+### Safety Note:
+
+#### Please add some objects or locations to the code to have more possible unique sentences for extra safety.
